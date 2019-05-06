@@ -1,0 +1,28 @@
+﻿<Properties StartupConfiguration="{92153BC9-950F-424B-A2B2-490235772B50}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Program.cs">
+    <Files>
+      <File FileName="Cat.cs" Line="21" Column="2" />
+      <File FileName="Dog.cs" Line="20" Column="6" />
+      <File FileName="Pets.cs" Line="1" Column="1" />
+      <File FileName="Program.cs" Line="1" Column="14" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="Pets" expanded="True">
+            <Node name="Pets" expanded="True">
+              <Node name="Program.cs" selected="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.ItemProperties.Pets PreferredExecutionTarget="MonoDevelop.Default" />
+</Properties>
